@@ -405,7 +405,7 @@
 		<Key ID="str_player_13">
 			<Original>Waiting for character to create</Original>
 			<English>Waiting for character to create</English>
-			<German>Warten auf Charactererstellung</German>
+			<German>Warten auf Charaktererstellung</German>
 			<Russian>Пожалуйста, выйдите в окно выбора игрока чтобы продолжить игру</Russian>
 			<Spanish>Esperando a que el personaje sea creado</Spanish>
 			<Dutch>Wachten tot het karakter is aangemaakt</Dutch>
@@ -1012,7 +1012,7 @@
 		<Key ID="str_actions_tamedog">
 			<Original>Tame Dog</Original>
 			<English>Tame Dog</English>
-			<German>Hund abrichten</German>
+			<German>Hund zähmen</German>
 			<Russian>Приручить собаку</Russian>
 			<Spanish>Domesticar Perro</Spanish>
 			<Dutch>Tame Dog</Dutch>
